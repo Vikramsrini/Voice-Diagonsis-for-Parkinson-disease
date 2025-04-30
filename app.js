@@ -5,7 +5,7 @@ let audioChunks = [];
 let audioBlob = null;
 let audioBuffer = null;
 let visualizationInterval = null;
-const apiUrl = 'https://c946-120-138-12-247.ngrok-free.app//audio_predict';
+const apiUrl = 'https://e084-103-4-221-252.ngrok-free.app//audio_predict';
 
 // DOM elements
 const startBtn = document.getElementById('startBtn');
